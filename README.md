@@ -16,7 +16,7 @@ Design a class named Business that contains:
 -A default constructor
 -An overloaded constructor that creates a Business with a specified Business stock symbol and name
 -An overloaded constructor with all attributes
-Accessors and mutators for each attribute
+ Accessors and mutators for each attribute
 -A copy Constructor   
 -An Equals Method   
 -A toString() method to display current state of the object, formatted!
