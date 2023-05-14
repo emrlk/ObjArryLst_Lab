@@ -1,5 +1,5 @@
 # ObjArryLst_Lab
 
-Driver creates an Array List "businesses" and fills it with Business objects which are created using data from the text file. 
-Users can choose options from a menu to sort or display certain data from all objects. 
+Demonstrates a basic object definition that includes a copy constructor, equals(), and toString(), as well as a 
+driver that parses through a text file and creates objects using its data.
 
