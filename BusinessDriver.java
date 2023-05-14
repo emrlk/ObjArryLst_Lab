@@ -1,8 +1,5 @@
 /*** Driver for the Business class.
-   * Includes methods main(), setBusinessData(),
-   * displayBusinessData(), and sortData().
    * @author Emily Louk
-   * @since 3-17-2021
 */
 
 import java.util.*;
